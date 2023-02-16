@@ -8,7 +8,7 @@ Usage:
 Download Zip folder , unzip and save in same directory and run the project as follows:
 # Open the windows console or linux terminal
 cd nlp_movies
-# Creating a virtual environment for the project
+## Creating a virtual environment for the project
 python -m venv nlp_movies
 # Change to the nlp_movies directory
 cd nlp_movies
