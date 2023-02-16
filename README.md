@@ -16,3 +16,5 @@ cd nlp_movies
 .\Scripts\activate
 # Install necessary packages
 pip install -r requirements.txt
+# Run the application
+python watch_next.py
